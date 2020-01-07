@@ -21,7 +21,7 @@ public class Pose_skytone {
     private DcMotor rotate = null;
     private DcMotor lift = null;
     private Servo clawServo = null;
-
+//last three need to be put in configuration on phone
     double powerFrontLeft;
     double powerFrontRight;
     double powerBackRight;
